@@ -48,7 +48,7 @@ JugsMugs
 ```
 ## Sample output 2
 ```
-JugsMugs
+JugsPugs
 ```
 ## Sample output 3
 ```
