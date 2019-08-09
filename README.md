@@ -20,6 +20,12 @@ To find the distance between two points (x1,y1) and (x2,y2), all that you need t
 13. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day13.md)
 14. [Given three integers, print the least of them.](Day14.md)
 15. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day15.md)
+16. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.
+The rules in Gregorian calendar are as follows:
+a year is a leap year if its number is exactly divisible by 4 and is not exactly divisible by 100
+a year is always a leap year if its number is exactly divisible by 400](Day16.md)
+
+
 
 
 
