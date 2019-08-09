@@ -24,8 +24,11 @@ To find the distance between two points (x1,y1) and (x2,y2), all that you need t
 The rules in Gregorian calendar are as follows:
 a year is a leap year if its number is exactly divisible by 4 and is not exactly divisible by 100
 a year is always a leap year if its number is exactly divisible by 400](Day16.md)
-
-
+17. [Write a program that receives a number on the input.
+If the number is a multiple of 3, it prints "Jugs". 
+If the number is a multiple of 5, it prints "Mugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+Otherwise, it prints the number.](Day17.md)
 
 
 
