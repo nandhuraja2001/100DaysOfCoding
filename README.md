@@ -32,6 +32,12 @@ Otherwise, it prints the number.](Day17.md)
 18. [Write a program that receives a number on the input.
 If the number is a multiple of 3, it prints "Jugs". 
 Otherwise, it prints the number.](Day18.md)
+19. [Read two inputs. 
+The first input is a digit. 
+The second input is a number. 
+Is the digit present in the number? If yes, return True.
+If no, return False.](Day19.md)
+
 
 
 
