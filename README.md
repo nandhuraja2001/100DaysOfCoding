@@ -16,6 +16,7 @@ Assign it to the variable remaining_blocks.](Day3.md)
 10. [Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](Day10.md)
 11. [Write a program to calculate the distance between two points.
 To find the distance between two points (x1,y1) and (x2,y2), all that you need to do is use the coordinates of these ordered pairs and apply some common sense. Begin with the most simplest formula and then incrementally arrive at the correct formula as you solve the test cases.](Day11.md)
+12. [Given a three-digit number. Find the sum of its digits.](Day12.md)
 
 
 
