@@ -127,7 +127,10 @@ For the given integer n calculate the value
 Try to discover the solution that uses only one for-loop. And don't use math module in this exercise.](Day28.md)
 29. [For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.
 To do that, you can use the sep and end arguments for the function print().](Day29.md)
-30. 
+30. [There was a set of cards with numbers from 1 to N. One of the card is now lost. Determine the number on that lost card given the numbers for the remaining cards.
+Given a number N, followed by N − 1 integers representing the numbers on the remaining cards (distinct integers in the range from 1 to N). Find and print the number on the lost card.](Day30.md)
+31. [Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day31.md)
+
 
 
 
