@@ -97,7 +97,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    "PugsMugs" for multiple of 3 and 7
    "MugsJugs" for multiple of 3 and 5 
    "PugsJugs" for multiple of 5 and 7](Day24.md)
- 25. [Write a program that receives a number on the input and prints values from 1 to that number subjected to the conditions below. 
+25. [Write a program that receives a number on the input and prints values from 1 to that number subjected to the conditions below. 
 It also should receive another boolean value 'rev' on the input. 
 For every number in the given range,   
 If the number is a multiple of 3, or it contains digit 3, it prints "Jugs".   
@@ -116,6 +116,8 @@ If the boolean 'rev' is True, then reverse the order of printing.
 "PugsMugs" for multiple of 3 and 7   
 "MugsJugs" for multiple of 3 and 5    
 "PugsJugs" for multiple of 5 and 7](Day25.md)
+26. [N numbers are given in the input. Read them and print their sum.
+The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](Day26.md)
 
 
 
