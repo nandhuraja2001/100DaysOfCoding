@@ -130,19 +130,15 @@ To do that, you can use the sep and end arguments for the function print().](Day
 30. [There was a set of cards with numbers from 1 to N. One of the card is now lost. Determine the number on that lost card given the numbers for the remaining cards.
 Given a number N, followed by N − 1 integers representing the numbers on the remaining cards (distinct integers in the range from 1 to N). Find and print the number on the lost card.](Day30.md)
 31. [Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day31.md)
-32. [The Missing Spy Plane
-The Indian Air Force (IAF)  is using more than 10,000 spy planes to  
+32. [The Missing Spy PlaneThe Indian Air Force (IAF)  is using more than 10,000 spy planes to  
 go across LoC to scout for terrorist camps in Pakistan. Whenever a spy   
 plane takes off for reconnaissance, the Plane ID is added to a list.  
 Whenever the plane returns, the ID is again added to the same list.   
 One spy plane alone has gone missing, so its ID was not added to the  
 list a second time.  By the way, IDs are not guaranteed to be  
-sorted or sequential.   
-1. Given a list of plane IDs, write a program to print out the ID of 
-the missing spy plane. 
-2. If no plane is found missing, then print "All arrived!"  
-Bonus 
-2. The IAF is very keen to have the most efficient algorithm / solution.   
+sorted or sequential.   1. Given a list of plane IDs, write a program to print out the ID of 
+the missing spy plane. 2. If no plane is found missing, then print "All arrived!"  
+Bonus 2. The IAF is very keen to have the most efficient algorithm / solution.   
 It wants one program that can finish within 10 milliseconds, even when   
 there are more than 10 lakh sorties across the LoC by the spy planes,  
 i.e. each spy plane might make upto 100+  visits across the LoC.](Day32.md) 
