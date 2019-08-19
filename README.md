@@ -159,6 +159,9 @@ In the ninth line, print the length of the given string.](Day33.md)
 38. [Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).](Day38.md)
 39. [Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is, don't use range()](Day39.md)
 40. [Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day40.md)
+41. [Given a list of numbers with all elements sorted in ascending order, determine and print the number of distinct elements in it.](Day41.md)
+42. [Given a list of numbers, swap adjacent elements in each pair (swap A[0] with A[1], A[2] with A[3], etc.).Print the resulting list. If a list has an odd number of elements, leave the last element intact.](Day42.md)
+
 
 
 
