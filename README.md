@@ -166,6 +166,9 @@ In the ninth line, print the length of the given string.](Day33.md)
 The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day44.md)
 45. [Given a list of numbers, find and print the elements that appear in it only once. 
 Such elements should be printed in the order in which they occur in the original list.](Day45.md)
+46. [It is possible to place 8 queens on an 8×8 chessboard so that no two queens threaten each other. Thus, it requires that no two queens share the same row, column, or diagonal.  
+Given a placement of 8 queens on the chessboard. If there is a pair of queens that violates this rule, print YES, otherwise print NO. The input consists of eight coordinate pairs, one pair per line, with each pair giving the position of a queen on a standard chessboard with rows and columns numbered from 1 to 8.](Day46.md)
+
 
 
 
