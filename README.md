@@ -158,7 +158,7 @@ In the ninth line, print the length of the given string.](Day33.md)
 37. [Given a list of numbers, find and print all its elements that are greater than their left neighbor.](Day37.md)
 38. [Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).](Day38.md)
 39. [Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is, don't use range()](Day39.md)
-
+40. [Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day40.md)
 
 
 
