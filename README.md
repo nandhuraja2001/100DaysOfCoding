@@ -164,6 +164,8 @@ In the ninth line, print the length of the given string.](Day33.md)
 43. [Given a list of distinct numbers, swap the minimum and the maximum and print the resulting list.](Day43.md)
 44. [Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.
 The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day44.md)
+45. [Given a list of numbers, find and print the elements that appear in it only once. 
+Such elements should be printed in the order in which they occur in the original list.](Day45.md)
 
 
 
