@@ -168,6 +168,9 @@ The first and the last items of the list shouldn't be considered because they do
 Such elements should be printed in the order in which they occur in the original list.](Day45.md)
 46. [It is possible to place 8 queens on an 8×8 chessboard so that no two queens threaten each other. Thus, it requires that no two queens share the same row, column, or diagonal.  
 Given a placement of 8 queens on the chessboard. If there is a pair of queens that violates this rule, print YES, otherwise print NO. The input consists of eight coordinate pairs, one pair per line, with each pair giving the position of a queen on a standard chessboard with rows and columns numbered from 1 to 8.](Day46.md)
+47. [You are given a dictionary consisting of word pairs. Every word is a synonym of the other word in its pair. All the words in the dictionary are different.After the dictionary there's one more word given. Find a synonym for it.](Day47.md)
+48. [The text is given in a single line. For each word of the text count the number of its occurrences before it.](Day48.md)
+
 
 
 
